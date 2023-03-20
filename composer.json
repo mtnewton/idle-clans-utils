@@ -1,0 +1,9 @@
+{
+    "license": "MIT",
+    "require": {
+        "illuminate/collections": "^10.4"
+    },
+    "autoload": {
+        "psr-4": {"MTNewton\\IdleClansUtils\\": "src/"}
+    }
+}
